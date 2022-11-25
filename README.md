@@ -33,4 +33,4 @@
 
 ## 统计
 <!--      &hide_border=true           -->
-<p align="left"><img height="190px" src="https://github-readme-stats.vercel.app/api?username=huigang39&show_icons=true&theme=dracula&line_height=20&count_private=true&include_all_commits=true" align = "center"/><img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huigang39&theme=dracula&hide=HTML,Tex&layout=compact" align = "center"/></p>
+<p align="left"><img height="190px" src="https://github-readme-stats.vercel.app/api?username=huigang39&show_icons=true&theme=buefy&line_height=20&count_private=true&include_all_commits=true" align = "center"/><img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huigang39&theme=buefy&hide=HTML,Tex&layout=compact" align = "center"/></p>
