@@ -21,7 +21,7 @@
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44a833?style=for-the-badge&&logo=Anaconda&logoColor=white)
 ![ROS](https://img.shields.io/badge/-ROS-081832?style=for-the-badge&&logo=ros&logoColor=white)
 ![Apollo](https://img.shields.io/badge/-Apollo-015de7?style=for-the-badge&&logo=apollographql&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-04599c?style=for-the-badge&&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-5fc8f8?style=for-the-badge&&logo=flutter&logoColor=white)
 
 ### 系统 System
 ![Arch](https://img.shields.io/badge/-Arch-1793d1?style=for-the-badge&&logo=archlinux&logoColor=white)
