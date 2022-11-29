@@ -20,15 +20,15 @@
 ![Docker](https://img.shields.io/badge/-Docker-0073ec?style=for-the-badge&logo=docker&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44a833?style=for-the-badge&&logo=Anaconda&logoColor=white)
 
-### 开发框架 (Development Framework)
-![ROS](https://img.shields.io/badge/-ROS-081832?style=for-the-badge&&logo=ros&logoColor=white)
-![Apollo](https://img.shields.io/badge/-Apollo-015de7?style=for-the-badge&&logo=apollographql&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-5fc8f8?style=for-the-badge&&logo=flutter&logoColor=white)
-
 ### 系统 (System)
 ![Arch](https://img.shields.io/badge/-Arch-1793d1?style=for-the-badge&&logo=archlinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-e95420?style=for-the-badge&&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078d6?style=for-the-badge&&logo=windows&logoColor=white)
+
+### 开发框架 (Development Framework)
+![ROS](https://img.shields.io/badge/-ROS-081832?style=for-the-badge&&logo=ros&logoColor=white)
+![Apollo](https://img.shields.io/badge/-Apollo-015de7?style=for-the-badge&&logo=apollographql&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-5fc8f8?style=for-the-badge&&logo=flutter&logoColor=white)
 
 ### 开发板 (Development Board)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979d?style=for-the-badge&&logo=arduino&logoColor=white)
@@ -37,4 +37,4 @@
 
 ## 统计 (Statistics)
 <!--      &hide_border=true           -->
-<p align="left"><img height="190px" src="https://github-readme-stats.vercel.app/api?username=huigang39&show_icons=true&theme=buefy&line_height=20&count_private=true&include_all_commits=true" align = "center"/><img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huigang39&theme=buefy&hide=HTML,Tex&layout=compact" align = "center"/></p>
+<p align="left"><img height="190px" src="https://github-readme-stats.vercel.app/api?username=huigang39&show_icons=true&theme=buefy&line_height=20&count_private=true&include_all_commits=true" align = "center"/></p><img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huigang39&theme=buefy&hide=HTML,Tex&layout=compact" align = "center"/></p>
