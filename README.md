@@ -1,6 +1,6 @@
 <img align=right src='https://github.githubassets.com/images/mona-whisper.gif' />
 
-一眼顶真，鉴定为小镇修车家🙌
+前进！不择手段地前进！
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=huigang39)
 
