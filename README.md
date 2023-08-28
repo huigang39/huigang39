@@ -2,7 +2,7 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=huigang39.huigang39" alt="visitors"/>   
 
-前进！不择手段地前进！
+# 前进！不择手段地前进！
 
 ## 技能树 (Skill Tree)
 
