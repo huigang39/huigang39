@@ -1,7 +1,5 @@
 <img align=right src='https://github.githubassets.com/images/mona-whisper.gif' />
 
-前进！不择手段地前进！
-
 <p align="center">
     <a href="https://github.com/huigang39/huigang39"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/huigang39/huigang39/graphs/contributors"><img src="https://img.shields.io/github/contributors/Abrillant-Lee/Abrillant-Lee?color=blue"></a>
@@ -9,6 +7,8 @@
     <a href="https://github.com/huigang39/huigang39/network/members"><img src="https://img.shields.io/github/forks/Abrillant-Lee/Abrillant-Lee.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=huigang39.huigang39" alt="visitors"/>   
 </p>
+
+前进！不择手段地前进！
 
 ## 技能树 (Skill Tree)
 
