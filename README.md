@@ -2,9 +2,9 @@
 
 <p align="center">
     <a href="https://github.com/huigang39/huigang39"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/huigang39/huigang39/graphs/contributors"><img src="https://img.shields.io/github/contributors/Abrillant-Lee/Abrillant-Lee?color=blue"></a>
-    <a href="https://github.com/huigang39/huigang39/stargazers"><img src="https://img.shields.io/github/stars/Abrillant-Lee/Abrillant-Lee.svg?logo=github"></a>
-    <a href="https://github.com/huigang39/huigang39/network/members"><img src="https://img.shields.io/github/forks/Abrillant-Lee/Abrillant-Lee.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/huigang39/huigang39/graphs/contributors"><img src="https://img.shields.io/github/contributors/huigang39/huigang39?color=blue"></a>
+    <a href="https://github.com/huigang39/huigang39/stargazers"><img src="https://img.shields.io/github/stars/huigang39/Abrillant-Lee.svg?logo=github"></a>
+    <a href="https://github.com/huigang39/huigang39/network/members"><img src="https://img.shields.io/github/forks/huigang39/huigang39.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=huigang39.huigang39" alt="visitors"/>   
 </p>
 
