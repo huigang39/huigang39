@@ -7,7 +7,7 @@
 - 🤔 &nbsp; 郑州轻工业大学车辆工程
 - 🎓 &nbsp; 机器人软硬件开发、嵌入式开发
 - 💼 &nbsp; 业余音乐爱好者
-- ✍️ &nbsp; 个人主页：www.huigang39.github.io
+- ✍️ &nbsp; 个人主页：https://huigang39.github.io
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huigang39&theme=buefy&layout=compact"/>](https://github.com/huigang39/)
 
