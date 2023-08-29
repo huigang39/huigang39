@@ -4,8 +4,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; 郑州轻工业大学车辆工程
-- 🎓 &nbsp; 机器人软硬件开发、嵌入式开发
+- 🎓 &nbsp; 郑州轻工业大学车辆工程
+- 🤔 &nbsp; 机器人软硬件开发、嵌入式开发
 - 💼 &nbsp; 业余音乐爱好者
 - ✍️ &nbsp; 个人主页：https://huigang39.github.io
 
@@ -21,9 +21,9 @@
   ![ROS2](https://img.shields.io/badge/-ROS2-333333?style=ros)
 - 🌐 &nbsp;
   ![STM32](https://img.shields.io/badge/-STM32-333333?style=flat&logo=stm32)
-  ![esp8266](https://img.shields.io/badge/-esp8266-333333?style=flat)
-  ![esp32](https://img.shields.io/badge/-esp32-333333?style=flat)
-  ![arduino](https://img.shields.io/badge/-arduino-333333?style=flat&logo=arduino)
+  ![ESP8266](https://img.shields.io/badge/-esp8266-333333?style=flat)
+  ![ESP32](https://img.shields.io/badge/-esp32-333333?style=flat)
+  ![Arduino](https://img.shields.io/badge/-arduino-333333?style=flat&logo=arduino)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
