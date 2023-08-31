@@ -24,7 +24,7 @@
   ![ESP8266](https://img.shields.io/badge/-esp8266-333333?style=flat)
   ![ESP32](https://img.shields.io/badge/-esp32-333333?style=flat)
   ![Arduino](https://img.shields.io/badge/-arduino-333333?style=flat&logo=arduino)
-  ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
+  ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=Linux)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
