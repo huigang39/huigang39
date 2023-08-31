@@ -21,16 +21,16 @@
   ![ROS2](https://img.shields.io/badge/-ROS2-333333?style=ros)
 - 📎 &nbsp;
   ![STM32](https://img.shields.io/badge/-STM32-333333?style=flat&logo=stm32)
-  ![ESP8266](https://img.shields.io/badge/-esp8266-333333?style=flat)
-  ![ESP32](https://img.shields.io/badge/-esp32-333333?style=flat)
-  ![Arduino](https://img.shields.io/badge/-arduino-333333?style=flat&logo=arduino)
-  ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
+  ![ESP8266](https://img.shields.io/badge/-ESP8266-333333?style=flat)
+  ![ESP32](https://img.shields.io/badge/-ESP32-333333?style=flat)
+  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 - 🛠️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Make](https://img.shields.io/badge/-make-333333?style=flat&logo=make)
-  ![CMake](https://img.shields.io/badge/-cmake-333333?style=flat&logo=cmake)
-  ![Vim](https://img.shields.io/badge/-vim-333333?style=flat&logo=vim)
+  ![Make](https://img.shields.io/badge/-Make-333333?style=flat&logo=make)
+  ![CMake](https://img.shields.io/badge/-CMake-333333?style=flat&logo=cmake)
+  ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
 - 🖥 &nbsp;
   ![KiCAD](https://img.shields.io/badge/-KiCAD-333333?style=flat)
   ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=matlab)
