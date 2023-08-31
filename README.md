@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Huigang Wang.</h2>
+<h2> Hey there! I'm Huigang Wang. </h2>
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=huigang39&theme=buefy&show_icons=true&count_private=true"/>](https://github.com/huigang39/)
 
