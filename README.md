@@ -11,8 +11,6 @@
 
 [<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=huigang39&theme=buefy&show_icons=true&count_private=true"/>](https://github.com/huigang39/)
 
-</br>
-
 <h3> 🛠 &nbsp;Tech Stack </h3>
 
 - 💻 &nbsp;
