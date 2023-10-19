@@ -8,7 +8,7 @@
         <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhuigang39&color=blue&logo=github&longCache=true" />
     </a>
     <a title="My Blog Site" target="_blank" href="https://huigang39.github.io/">
-        <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-huigang39.github.io-red" />
+        <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-huigang39.github.io-orange" />
     </a>
 </p>
 
@@ -17,7 +17,7 @@
 ### 🏆 Profile Trophy
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=blinkfox&title=Stars,Followers,MultiLanguage,Commits,Issues&margin-w=15&margin-h=15" alt="blinkfox" />
+    <img src="https://github-profile-trophy.vercel.app/?username=huigang39&title=Stars,Followers,MultiLanguage,Commits,Issues&margin-w=15&margin-h=15" alt="huigang39" />
 </p>
 
 ### 🔨 Skills and Tools
@@ -110,8 +110,8 @@
 
 <div align="center">
     <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=blinkfox&count_private=true&show_icons=true" />
+    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=huigang39&count_private=true&show_icons=true" />
     <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blinkfox&layout=compact&langs_count=8" />
+    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huigang39&layout=compact&langs_count=8" />
     <span>&emsp;&emsp;</span>
 </div>
