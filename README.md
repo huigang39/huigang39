@@ -51,7 +51,7 @@
     <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40" />
     </a>
-    <a href="https://www.c.org/" target="_blank" rel="noreferrer">
+    <a href="https://code-reference.com/c" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
     </a>
     <a href="https://www.cplusplus.org/" target="_blank" rel="noreferrer">
