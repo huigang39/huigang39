@@ -2,7 +2,7 @@
 
 <h4 align="center">
 宇宙很大，生活更大。
-
+\n
 Universe is big, live is bigger.
 </h4>
 
