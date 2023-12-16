@@ -1,8 +1,10 @@
 <h3 align="center">Hi 👋, I'm huigang39 🙌</h3>
 
+<h4 align="center">
 **宇宙很大，生活更大。**
 
 **Universe is big, live is bigger.**
+</h4>
 
 <p align="center">
     <a title="Github Total Stars" target="_blank" href="https://github.com/huigang39">
