@@ -49,7 +49,7 @@ Universe is big, live is bigger.
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40" />
     </a>
     </a><a href="https://code-reference.com/c/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc-original-wordmark/embeddedc-original-wordmark.svg" alt="embeddedc" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original-wordmark.svg" alt="embeddedc" width="40" height="40" />
     </a>
 </div>
 
