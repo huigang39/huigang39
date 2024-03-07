@@ -88,7 +88,3 @@ Universe is big, live is bigger.
     <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huigang39&layout=compact&langs_count=8" />
     <span>&emsp;&emsp;</span>
 </div>
-
-# 附上帅照
-
-![ba5ee8e32b79173e49ff190f3ac494b](https://github.com/huigang39/huigang39/assets/63324254/1a13f35c-0240-4916-aee1-68c738651557)
